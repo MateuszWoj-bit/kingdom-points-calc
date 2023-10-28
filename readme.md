@@ -1,19 +1,26 @@
-Kingdom Points Calculator
-This is a simple web-based tool that helps you calculate the time needed to achieve a certain number of Kingdom Points in Valorant. It takes into account your daily points, the game mode you play, and the number of days you plan to play.
+# Kingdom Points Calculator
 
-Usage
-Enter the total Kingdom Points you want to achieve.
-Specify your daily Kingdom Points (maximum 600).
-Choose the game mode you play (Mode 1 or Mode 2).
-Enter the number of days you plan to play.
-Click the "Calculate" button.
-Assumptions
-Assumes a 50% win rate (4 points per round in standard modes).
-Assumes an average round duration of 70 seconds.
-Result
-The tool will provide you with an estimate of the time needed to achieve your desired Kingdom Points. It will display the number of days, hours, and minutes required, as well as the number of rounds (if applicable).
+Kingdom Points Calculator is a straightforward web-based tool designed to assist you in estimating the time required to reach a specific number of Kingdom Points in Valorant. It factors in your daily point earnings, your chosen game mode, and the number of days you intend to play.
 
-Homepage
-You can access the Kingdom Points Calculator tool on homepage:
+## Usage
 
-Enjoy calculating your Kingdom Points and planning your gaming strategy!
+1. **Total Kingdom Points**: Enter the total Kingdom Points you aspire to achieve.
+2. **Daily Kingdom Points**: Specify your daily Kingdom Points (maximum 600).
+3. **Game Mode**: Choose the game mode you typically engage in (Mode 1 or Mode 2).
+4. **Number of Days**: Input the number of days you plan to dedicate to the game.
+5. Click the "Calculate" button to get your estimate.
+
+## Assumptions
+
+- Assumes a 50% win rate, equating to 4 points earned per round in standard game modes.
+- Assumes an average round duration of 70 seconds.
+
+## Result
+
+The tool provides you with a projected timeframe to attain your desired Kingdom Points. It presents the number of days, hours, and minutes required to reach your goal, along with the number of rounds (if applicable).
+
+## Homepage
+
+You can access the Kingdom Points Calculator tool on homepage: [Homepage Address](example)
+
+Enjoy using this calculator to strategize and plan your gaming adventure!
