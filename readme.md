@@ -21,6 +21,6 @@ The tool provides you with a projected timeframe to attain your desired Kingdom 
 
 ## Homepage
 
-You can access the Kingdom Points Calculator tool on homepage: [Homepage Address](example)
+You can access the Kingdom Points Calculator tool on homepage: [Homepage Address]([example](https://mateuszwoj-bit.github.io/kingdom-points-calc/))
 
 Enjoy using this calculator to strategize and plan your gaming adventure!
