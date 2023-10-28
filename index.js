@@ -18,7 +18,7 @@ function calculateTimeToAchievePoints() {
   points -= daysPlayed * dailyPoints; // Deduct points for each day played
 
   if (mode === "mode1") {
-    var roundsNeeded = Math.ceil(points / 3); // Assuming an average of 3 points per round
+    var roundsNeeded = Math.ceil(points / 4); // Assuming an average of 4 points per round
   } else if (mode === "mode2") {
     var hoursNeeded = points / 150; // Assuming 150 points per hour
   }
